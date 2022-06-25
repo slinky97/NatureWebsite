@@ -113,6 +113,7 @@ header .navigation a:hover{
     font-size: 25px;
     transition: 0.3s;
     transition-property: transform;
+    
 }
 
 .media-icons a:not(:last-child){
